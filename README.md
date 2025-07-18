@@ -5,7 +5,6 @@
 
 ---
 
-## 🧬 System Statistics
 
 ![Trojanforyou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojanforyou&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00)
 
