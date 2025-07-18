@@ -11,5 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojanforyou&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00)
 
 ---
+![Matrix style graph](https://github-readme-activity-graph.vercel.app/graph?username=Trojanforyou&theme=custom&hide_border=true&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=001100)
+
 
 
