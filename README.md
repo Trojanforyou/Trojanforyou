@@ -51,3 +51,27 @@
 
 ## 🧮 ASCII: Access Terminal
 
+
+---
+
+## 💊 Choose Your Path (Red or Blue?)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=zE7PKRjrid4" target="_blank">
+    <img src="https://img.shields.io/badge/Take%20the%20Red%20Pill-Dive%20Deeper-ff0000?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=8HJy3GGYQnY" target="_blank">
+    <img src="https://img.shields.io/badge/Take%20the%20Blue%20Pill-Stay%20in%20Comfort-0000ff?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🧙 Quote from Morpheus
+
+> _“What you know you can't explain, but you feel it. You've felt it your entire life. That there's something wrong with the world. You don't know what it is — but it's there, like a splinter in your mind.”_
+
+---
+
+## ⚠️ System Log
