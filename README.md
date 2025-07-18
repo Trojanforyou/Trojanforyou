@@ -30,8 +30,9 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/3Qb4E3z.gif" alt="Matrix rain" width="600" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=0101010101;Matrix+is+real...;Wake+up,+Neo!" alt="Matrix typing effect" />
 </p>
+
 
 ---
 
