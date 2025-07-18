@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/Mode-Matrix-Activated-00FF00?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/3Qb4E3z.gif" alt="Matrix rain" width="600" />
+</p>
+
 ---
 
 ## 🕶️ **The Matrix Quote**
