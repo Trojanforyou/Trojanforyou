@@ -1,9 +1,5 @@
 
-<h1 align="center">Wake up, Trojanforyou...</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=The+Matrix+has+you...;Follow+the+green+commits...;Knock,+knock+Neo...;System+Breached..." alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/EaZsmrG93kDny/giphy.gif" width="600" alt="Matrix Rain" />
