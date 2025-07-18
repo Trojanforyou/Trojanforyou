@@ -13,9 +13,6 @@
 
 ---
 
-## 🧠 GitHub Mind Pattern (Activity)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Trojanforyou&theme=matrix&area=true&hide_border=true)
 
 ---
 
@@ -24,25 +21,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Trojanforyou&theme=matrix&hide_border=true&background=000000)](https://git.io/streak-stats)
 
 ---
-
-## 🧪 Terminal Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Editor-Neovim-00FF00?style=for-the-badge&logo=neovim&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell-Bash-00FF00?style=for-the-badge&logo=gnubash&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hacker-Resistance-00FF00?style=for-the-badge&logo=HackTheBox&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mode-Matrix%20Activated-00FF00?style=for-the-badge" />
-</p>
-
----
-
-## 🕶️ Quote from Morpheus
-
-> _“Unfortunately, no one can be told what the Matrix is. You have to see it for yourself.”_
-
----
-
-## 🔐 System Status
 
 
 
