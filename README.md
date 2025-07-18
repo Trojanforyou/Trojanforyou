@@ -14,9 +14,3 @@
 ---
 
 
----
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trojanforyou&theme=green-evil" alt="Activity Graph" />
-</p>
-
-
