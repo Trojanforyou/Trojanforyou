@@ -1,10 +1,5 @@
 <h1 align="center">Wake up, <span style="color:#00FF00">Trojanforyou</span>...</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0;Matrix+Code+Rain;Wake+up,+Neo..." alt="Matrix ASCII typing effect" />
-</p>
-
-
 ---
 
 <p align="center">
