@@ -1,73 +1,48 @@
-<h1 align="center">Wake up, <span style="color:#00FF00">Trojanforyou</span>...</h1>
+# <p align="center">🟩 𝗠𝗔𝗧𝗥𝗜𝗫 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟 𝗧𝗛𝗘𝗠𝗘 🟩</p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/EaZsmrG93kDny/giphy.gif" width="600" alt="Matrix Rain" />
+<p align="center" style="font-family: monospace; color: #00FF00;">
+  <pre>
+   ██╗  ██╗ █████╗ ███████╗████████╗
+   ██║ ██╔╝██╔══██╗██╔════╝╚══██╔══╝
+   █████╔╝ ███████║███████╗   ██║   
+   ██╔═██╗ ██╔══██║╚════██║   ██║   
+   ██║  ██╗██║  ██║███████║   ██║   
+   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   
+  </pre>
 </p>
 
 ---
 
-## 🧠 GitHub Mind Pattern
+## 🧬 **System Stats**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Trojanforyou&theme=matrix&area=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojanforyou&theme=dark-green&show_icons=true)
 
----
-
-## 🔐 System Statistics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Trojanforyou&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojanforyou&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00)
-
-[![Streak](https://streak-stats.demolab.com?user=Trojanforyou&theme=matrix&hide_border=true&background=000000)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojanforyou&layout=compact&theme=dark-green)
 
 ---
 
-## 🎧 Matrix Soundtrack (Immersion Mode)
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=5nQeUJXPC8c" target="_blank">
-    ▶️ Click to Enter the Matrix Soundscape
-  </a>
-</p>
-
----
-
-## 🧪 Terminal Badges
+## 🖥️ **Terminal Badges**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-Neovim-00FF00?style=for-the-badge&logo=neovim&logoColor=black" />
   <img src="https://img.shields.io/badge/Shell-Bash-00FF00?style=for-the-badge&logo=gnubash&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mode-Matrix%20Activated-00FF00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HackLevel-Over9000-00FF00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mode-Matrix-Activated-00FF00?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧮 ASCII: Access Terminal
+## 🕶️ **The Matrix Quote**
 
-
----
-
-## 💊 Choose Your Path (Red or Blue?)
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=zE7PKRjrid4" target="_blank">
-    <img src="https://img.shields.io/badge/Take%20the%20Red%20Pill-Dive%20Deeper-ff0000?style=for-the-badge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=8HJy3GGYQnY" target="_blank">
-    <img src="https://img.shields.io/badge/Take%20the%20Blue%20Pill-Stay%20in%20Comfort-0000ff?style=for-the-badge" />
-  </a>
-</p>
+> “There is no spoon.”
 
 ---
 
-## 🧙 Quote from Morpheus
+## 🧠 **Activity Graph**
 
-> _“What you know you can't explain, but you feel it. You've felt it your entire life. That there's something wrong with the world. You don't know what it is — but it's there, like a splinter in your mind.”_
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Trojanforyou&theme=green-evil)
 
 ---
 
-## ⚠️ System Log
+## 🔐 **System Log**
+
+
