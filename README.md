@@ -21,6 +21,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Trojanforyou&theme=matrix&hide_border=true&background=000000)](https://git.io/streak-stats)
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trojanforyou&theme=green-evil" alt="Activity Graph" />
+</p>
 
 
