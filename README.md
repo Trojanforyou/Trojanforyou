@@ -10,7 +10,6 @@
 ![Trojanforyou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojanforyou&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00)
 
 ---
-![Error Space](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNkN2lnMzViZTg4emk1NTM3NnN1czczanJyc2IyNGF6b3hucXExaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojanforyou&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00)
 
